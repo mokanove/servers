@@ -46,7 +46,7 @@ de.867678.xyz
 
 
 
-## Best Cloudflare official IP for China:
+## Best Cloudflare official IP for China Mobile:
 
 > Hongkong
 >
