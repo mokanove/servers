@@ -8,6 +8,12 @@
 us.867678.xyz
 ```
 
+## Singapore (available):
+
+```
+sg.867678.xyz
+```
+
 ## Japan Tokyo:
 
 ```
