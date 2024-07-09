@@ -56,7 +56,7 @@ de.867678.xyz
 >
 > There are unlocked Netflix IPs.
 >
-> Socks proxy , port 9527 or 40000
+> Socks proxy , port 9527
 >
 > You can watch [this video](https://www.youtube.com/watch?v=Vj4TGd9IaQc&t=7s) setting your server.
 
