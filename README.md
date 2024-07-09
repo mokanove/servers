@@ -50,11 +50,13 @@ de.867678.xyz
 
 
 
-### Unlock Netflix (DNS)
+### Unlock Netflix (proxy)
 
-> If you server can't open Netflix , You can settings this IP for your server's DNS.
+> If you server can't open Netflix , You can settings this IP for your server's proxy.
 >
 > There are unlocked Netflix IPs.
+>
+> Socks proxy , port 9527 or 40000
 >
 > You can watch [this video](https://www.youtube.com/watch?v=Vj4TGd9IaQc&t=7s) setting your server.
 
