@@ -54,7 +54,7 @@ de.867678.xyz
 
 > If you server can't open Netflix , You can settings this IP for your server's DNS.
 >
-> This IPs are unlocked Netflix website.
+> There are unlocked Netflix IPs.
 >
 > You can watch [this video](https://www.youtube.com/watch?v=Vj4TGd9IaQc&t=7s) setting your server.
 
