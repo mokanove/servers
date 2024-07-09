@@ -60,19 +60,6 @@ de.867678.xyz
 
 
 
-
-## Best Cloudflare official IP for China Mobile:
-
-> Hongkong
->
-> [AS13335](https://ip.sb/whois/AS13335)
-
-```
-104.17.139.240
-```
-
-
-
 ## Speedtest URL :
 
 > Cloudflare R2 
