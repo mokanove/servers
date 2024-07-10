@@ -1,30 +1,152 @@
 # These are some servers with special features.
 
-
+------
 
 ## United States San Jose(available):
+
+> Not support IPv6 in , support IPv6 out.
+>
+> Netflix: only netflix original drama (US) , unlock with WARP.
+>
+> Fastest tested:800Mbps
+>
+> | Hostname         | 107-172-234-42-host.colocrossing.com   |
+> | ---------------- | -------------------------------------- |
+> | ISP              | HIFormance                             |
+> | IP Organization  | HIFormance                             |
+> | ASN              | [AS36352](https://ip.sb/whois/AS36352) |
+> | ASN Organization | AS-COLOCROSSING                        |
+
+Domain:
 
 ```
 us.867678.xyz
 ```
 
+Domain(Cloudflare CDN):
+
+```
+us2.867678.xyz
+```
+
+IPv4:
+
+```
+107.172.234.42
+```
+
+------
+
 ## Singapore (available):
+
+> Not support IPv6 in , support IPv6 out.
+>
+> Netflix:  All unlock (SG) , unlock with WARP.
+>
+> Fastest tested:200Mbps
+>
+> | Hostname         | **None**                                 |
+> | ---------------- | ---------------------------------------- |
+> | ISP              | Kaopu Cloud HK                           |
+> | IP Organization  | Kaopu Cloud HK                           |
+> | ASN              | [AS138915](https://ip.sb/whois/AS138915) |
+> | ASN Organization | Kaopu Cloud HK Limited                   |
+
+Domain:
 
 ```
 sg.867678.xyz
 ```
 
+Domain(Cloudflare CDN):
+
+```
+us2.867678.xyz
+```
+
+IPv4:
+
+```
+38.60.199.188
+```
+
+------
+
 ## Japan Tokyo:
+
+> Supported IPv6 in.
+>
+> Netflix:  All unlock (JP) , unlock with WARP.
+>
+> Fastest tested:150Mbps
+>
+> | Hostname         | **None**                                 |
+> | ---------------- | ---------------------------------------- |
+> | ISP              | G-Core Labs                              |
+> | IP Organization  | G-Core Labs                              |
+> | ASN              | [AS199524](https://ip.sb/whois/AS199524) |
+> | ASN Organization | G-Core Labs S.A.                         |
+
+Domain:
 
 ```
 jp.867678.xyz
 ```
 
-## Germany Frankfurt :
+Domain(Cloudflare CDN):
+
+```
+jp2.867678.xyz
+```
+
+IPv4:
+
+```
+92.xx.xx.xx
+```
+
+------
+
+## Germany Frankfurt:
+
+> Supported IPv6 in.
+>
+> Netflix:  All unlock (JP) , unlock with WARP.
+>
+> Fastest tested:150Mbps
+>
+> | Hostname         | **None**                                 |
+> | ---------------- | ---------------------------------------- |
+> | ISP              | G-Core Labs                              |
+> | IP Organization  | G-Core Labs                              |
+> | ASN              | [AS199524](https://ip.sb/whois/AS199524) |
+> | ASN Organization | G-Core Labs S.A.                         |
+
+Domain:
 
 ```
 de.867678.xyz
 ```
+
+Domain(Cloudflare CDN):
+
+```
+de2.867678.xyz
+```
+
+IPv4:
+
+```
+109.61.16.154
+```
+
+IPv6:
+
+```
+2a03:90c0:92:1::21d
+```
+
+------
 
 # What can them do?
 
@@ -50,6 +172,8 @@ de.867678.xyz
 
 
 
+
+
 ### Unlock Netflix (proxy)
 
 > If you server can't open Netflix , You can settings this IP for your server's proxy.
@@ -60,7 +184,9 @@ de.867678.xyz
 >
 > You can watch [this video](https://www.youtube.com/watch?v=Vj4TGd9IaQc&t=7s) setting your server.
 
+------
 
+# Cloudflare free services.
 
 ## Speedtest URL :
 
@@ -74,7 +200,7 @@ de.867678.xyz
 https://s.867678.xyz/speedtest
 ```
 
-
+------
 
 ## Free Vless proxies:
 
@@ -94,6 +220,6 @@ vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@104.17.139.240:443?encryption=none&
 vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@867678.xyz:443?encryption=none&security=tls&sni=gl.867678.xyz&type=ws&host=gl.867678.xyz&path=%2F%3Fed%3D2560#Random%20Cloudflare
 ```
 
-
+------
 
 # More servers is buliding.
