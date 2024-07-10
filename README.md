@@ -107,7 +107,7 @@ IPv4:
 
 ------
 
-## Germany Frankfurt:
+## Germany Frankfurt(available):
 
 > Supported IPv6 in.
 >
