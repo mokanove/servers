@@ -111,7 +111,7 @@ IPv4:
 
 > Supported IPv6 in.
 >
-> Netflix:  All unlock (JP) , unlock with WARP.
+> Netflix:  All unlock (DE) , unlock with WARP.
 >
 > Fastest tested:150Mbps
 >
