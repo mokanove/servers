@@ -72,7 +72,7 @@ IPv4:
 
 ------
 
-## Japan Tokyo:
+## Japan Tokyo(available):
 
 > Supported IPv6 in.
 >
@@ -102,9 +102,14 @@ jp2.867678.xyz
 IPv4:
 
 ```
-92.xx.xx.xx
+94.177.131.99
 ```
 
+IPv6:
+
+```
+2a03:90c0:112:1::2c3
+```
 ------
 
 ## Germany Frankfurt:
