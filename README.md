@@ -148,6 +148,40 @@ IPv6:
 
 ------
 
+## Abuja Nigeria:
+
+> Not Supported IPv6.
+>
+> Netflix:  All unlock (NG) , unlock with WARP.
+>
+> Fastest tested:100Mbps
+>
+> | Hostname         | **None**                                 |
+> | ---------------- | ---------------------------------------- |
+> | ISP              | Suburban-Broadband                       |
+> | IP Organization  | Suburban-Broadband                       |
+> | ASN              | [AS37004](https://ip.sb/whois/AS37004)   |
+> | ASN Organization | Suburban-Broadband                       |
+
+Domain:
+
+```
+ng.867678.xyz
+```
+
+Domain(Cloudflare CDN):
+
+```
+ng2.867678.xyz
+```
+
+IPv4:
+
+```
+41.73.0.96
+```
+
+------
 # What can them do?
 
 ### Cloudflare proxy IP
