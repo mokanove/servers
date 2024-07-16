@@ -148,7 +148,7 @@ IPv6:
 
 ------
 
-## Abuja Nigeria:
+## Abuja Nigeria (available):
 
 > Not Supported IPv6.
 >
