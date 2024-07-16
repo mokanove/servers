@@ -37,7 +37,7 @@ IPv4:
 
 ------
 
-## Singapore (available):
+## Singapore (not available):
 
 > Not support IPv6 in , support IPv6 out.
 >
