@@ -1,5 +1,7 @@
 #!/bin/bash
 echo "this command by speedtest offical website:https://www.speedtest.net/apps/cli"
+echo "The author is not responsible for any consequences of using this code."
+read -p "please input enter start install." a
 sudo rm /etc/apt/sources.list.d/speedtest.list
 sudo apt-get update
 sudo apt-get remove speedtest
