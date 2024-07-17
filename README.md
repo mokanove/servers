@@ -6,6 +6,8 @@
 
 > Not support IPv6 in , support IPv6 out.
 >
+> 443 port is not available.
+>
 > Netflix: only netflix original drama (US) , unlock with WARP.
 >
 > Speedtest:![](RN.png "speedtest")
@@ -191,7 +193,7 @@ IPv4:
 
 ### Cloudflare proxy IP
 
-> In port 80 and 443 and 2082 and 2052
+> In port 80 and 443 and 2082 and 2052 and 8080
 >
 > them proxied Cloudflare domain. 
 >
