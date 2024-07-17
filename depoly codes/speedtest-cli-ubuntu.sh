@@ -11,4 +11,5 @@ echo "installing speedtest."
 sudo apt-get install curl
 curl -s https://packagecloud.io/install/repositories/ookla/speedtest-cli/script.deb.sh | sudo bash
 sudo apt-get install speedtest
-speedtest -YES
+echo "input yes and next."
+speedtest
