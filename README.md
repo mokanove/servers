@@ -8,7 +8,7 @@
 >
 > Netflix: only netflix original drama (US) , unlock with WARP.
 >
-> Fastest tested:800Mbps
+> Speedtest:![](RN.png "speedtest")
 >
 > | Hostname         | 107-172-234-42-host.colocrossing.com   |
 > | ---------------- | -------------------------------------- |
@@ -78,7 +78,7 @@ IPv4:
 >
 > Netflix:  All unlock (JP) , unlock with WARP.
 >
-> Fastest tested:150Mbps
+> Speedtest:![](GC.png "speedtest")
 >
 > | Hostname         | **None**                                 |
 > | ---------------- | ---------------------------------------- |
@@ -159,7 +159,7 @@ IPv6:
 >
 > Netflix:  All unlock (NG) , unlock with WARP.
 >
-> Fastest tested:100Mbps
+> Speedtest:![](NG.png "speedtest")
 >
 > | Hostname         | **None**                                 |
 > | ---------------- | ---------------------------------------- |
