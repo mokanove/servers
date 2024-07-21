@@ -49,10 +49,10 @@ IPv4:
 >
 > | Hostname         | **None**                                 |
 > | ---------------- | ---------------------------------------- |
-> | ISP              | Kaopu Cloud HK                           |
-> | IP Organization  | Kaopu Cloud HK                           |
-> | ASN              | [AS138915](https://ip.sb/whois/AS138915) |
-> | ASN Organization | Kaopu Cloud HK Limited                   |
+> | ISP              | 	Vultr                           |
+> | IP Organization  | 	Vultr                           |
+> | ASN              | [AS20473](https://ip.sb/whois/AS20473) |
+> | ASN Organization | 	AS-CHOOPA                   |
 
 Domain:
 
@@ -266,3 +266,5 @@ vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@867678.xyz:443?encryption=none&secu
 # More servers is buliding.
 
 # The author does not assume any responsibility.
+
+# IP info from IP.SB.
