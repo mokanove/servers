@@ -120,7 +120,7 @@ IPv6:
 >
 > Netflix:  All unlock (DE) , unlock with WARP.
 >
-> Fastest tested:150Mbps
+> Speedtest:![](DE.png "speedtest")
 >
 > | Hostname         | **None**                                 |
 > | ---------------- | ---------------------------------------- |
