@@ -39,15 +39,15 @@ IPv4:
 
 ------
 
-## Singapore (not available):
+## Singapore (available):
 
-> Not support IPv6 in , support IPv6 out.
+> support IPv6 .
 >
 > Netflix:  All unlock (SG) , unlock with WARP.
 >
-> Fastest tested:200Mbps
+> Speedtest:![](SG.png "speedtest")
 >
-> | Hostname         | **None**                                 |
+> | Hostname         | 139.180.133.204.vultrusercontent.com                                 |
 > | ---------------- | ---------------------------------------- |
 > | ISP              | 	Vultr                           |
 > | IP Organization  | 	Vultr                           |
@@ -69,9 +69,13 @@ us2.867678.xyz
 IPv4:
 
 ```
-38.60.199.188
+139.180.133.204
 ```
+IPv6:
 
+```
+139.180.133.204
+```
 ------
 
 ## Japan Tokyo(available):
