@@ -114,7 +114,7 @@ IPv6:
 ```
 ------
 
-## Germany Frankfurt(available):
+## Germany Frankfurt(not available):
 
 > Supported IPv6 in.
 >
