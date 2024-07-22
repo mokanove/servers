@@ -76,11 +76,11 @@ IPv6:
 ```
 ------
 
-## Japan Tokyo(available):
+## HongKong China(available):
 
 > Supported IPv6 in.
 >
-> Netflix:  All unlock (JP) , unlock with WARP.
+> Netflix:  All unlock (HK) , unlock with WARP.
 >
 > Speedtest:![](GC.png "speedtest")
 >
@@ -94,25 +94,25 @@ IPv6:
 Domain:
 
 ```
-jp.867678.xyz
+hk.867678.xyz
 ```
 
 Domain(Cloudflare CDN):
 
 ```
-jp2.867678.xyz
+hk2.867678.xyz
 ```
 
 IPv4:
 
 ```
-94.177.131.99
+185.14.47.60
 ```
 
 IPv6:
 
 ```
-2a03:90c0:112:1::2c3
+2a03:90c0:2c7:1::2ac
 ```
 ------
 
