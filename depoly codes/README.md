@@ -6,25 +6,35 @@
 
 ## check-netflix-unlock:
 
-`wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/check-netflix-unlock.sh && sh check-netflix-unlock.sh`
+```
+wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/check-netflix-unlock.sh && sh check-netflix-unlock.sh
+```
 
 Delete:
 
-`rm check-netflix-unlock.sh&&rm nf`
+```
+rm check-netflix-unlock.sh&&rm nf
+```
 
 
 
 ## proxy-cloudflare-IPs.sh:
 
-`wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/proxy-cloudflare-IPs.sh && sh proxy-cloudflare-IPs.sh`
+```
+wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/proxy-cloudflare-IPs.sh && sh proxy-cloudflare-IPs.sh
+```
 
 Delete:
 
-`rm proxy-cloudflare-IPs.sh`
+```
+rm proxy-cloudflare-IPs.sh
+```
 
 Clean rules:
 
-`iptables -t nat -F`
+```
+iptables -t nat -F
+```
 
 
 
