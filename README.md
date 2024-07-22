@@ -197,7 +197,7 @@ IPv4:
 
 ### Cloudflare proxy IP
 
-> In port 80 and 443 and 2082 and 2052 and 8080
+> In port 80 and 443 and 2052 and 8080
 >
 > them proxied Cloudflare domain. 
 >
