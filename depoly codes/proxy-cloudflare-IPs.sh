@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Do you want do this? It will you 80 443 2082 2052 8080 port is opened."
+echo "Do you want do this? It will you 80 443 2082 2052 8080 port is proxied and off your firewall."
 echo "If it can't use, please change "104.20.182.94" to others cloudflare offical IPs."
 echo "The author is not responsible for any consequences of using this code."
 read -p "please input enter start install." a
