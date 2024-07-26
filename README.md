@@ -37,20 +37,20 @@ IPv4:
 
 ------
 
-## Singapore (not available):
+## Singapore (available):
 
-> support IPv6 .
+> Not Supported IPv6.
 >
-> Netflix:  All unlock (SG) , unlock with WARP.
+> Netflix:  All unlock (JP) , unlock with WARP.
 >
-> Speedtest:![](SG.png "speedtest")
+> Speedtest:![](GC.png "speedtest")
 >
-> | Hostname         | 139.180.133.204.vultrusercontent.com                                 |
+> | Hostname         | **None**                                 |
 > | ---------------- | ---------------------------------------- |
-> | ISP              | 	Vultr                           |
-> | IP Organization  | 	Vultr                           |
-> | ASN              | [AS20473](https://ip.sb/whois/AS20473) |
-> | ASN Organization | 	AS-CHOOPA                   |
+> | ISP              | G-Core Labs                              |
+> | IP Organization  | G-Core Labs                              |
+> | ASN              | [AS199524](https://ip.sb/whois/AS199524) |
+> | ASN Organization | G-Core Labs S.A.                         |
 
 Domain:
 
@@ -67,16 +67,11 @@ us2.867678.xyz
 IPv4:
 
 ```
-139.180.133.204
-```
-IPv6:
-
-```
-2001:19f0:4400:670f:5400:5ff:fe07:25fa
+45.135.228.219
 ```
 ------
 
-## Tokyo Japan(available):
+## Tokyo Japan(not available):
 
 > Supported IPv6 in.
 >
