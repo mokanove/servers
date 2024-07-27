@@ -226,25 +226,6 @@ https://s.867678.xyz/speedtest
 
 ------
 
-## Free Vless proxies:
-
-> Have some questions , For example : Cloudflare websites(Cloudflare CDNs) can't open or slow.
->
-> But others websites normal.
-
-### Hongkong Cloudflare
-
-```
-vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@104.17.139.240:443?encryption=none&security=tls&sni=gl.867678.xyz&type=ws&host=gl.867678.xyz&path=%2F%3Fed%3D2560#Hongkong%20Cloudflare
-```
-
-### Random Cloudflare
-
-```
-vless://77a571fb-4fd2-4b37-8596-1b7d9728bb5c@867678.xyz:443?encryption=none&security=tls&sni=gl.867678.xyz&type=ws&host=gl.867678.xyz&path=%2F%3Fed%3D2560#Random%20Cloudflare
-```
-
-------
 
 # More servers is buliding.
 
