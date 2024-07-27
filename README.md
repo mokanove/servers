@@ -37,7 +37,7 @@ IPv4:
 
 ------
 
-## Singapore (available):
+## Singapore (not available):
 
 > Not Supported IPv6.
 >
@@ -61,7 +61,7 @@ sg.867678.xyz
 Domain(Cloudflare CDN):
 
 ```
-us2.867678.xyz
+sg2.867678.xyz
 ```
 
 IPv4:
@@ -101,13 +101,13 @@ jp2.867678.xyz
 IPv4:
 
 ```
-95.85.94.159
+94.177.131.14
 ```
 
 IPv6:
 
 ```
-2a03:90c0:112:1::35a
+2a03:90c0:112:1::357
 ```
 ------
 
