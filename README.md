@@ -71,7 +71,7 @@ IPv4:
 ```
 ------
 
-## Tokyo Japan(not available):
+## Tokyo Japan(available):
 
 > Supported IPv6 in.
 >
