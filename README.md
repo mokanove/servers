@@ -210,20 +210,6 @@ IPv4:
 
 
 
-
-
-### Unlock Netflix (proxy)
-
-> If you server can't open Netflix , You can settings this IP for your server's proxy.
->
-> There are unlocked Netflix IPs.
->
-> Socks proxy , port 9527
->
-> You can watch [this video](https://www.youtube.com/watch?v=Vj4TGd9IaQc&t=7s) setting your server.
-
-------
-
 # Cloudflare free services.
 
 ## Speedtest URL :
