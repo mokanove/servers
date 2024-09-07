@@ -2,7 +2,7 @@
 
 ------
 
-## United States San Jose(available):
+## United States San Jose:
 
 > Not support IPv6 in , support IPv6 out.
 >
@@ -37,15 +37,15 @@ IPv4:
 
 ------
 
-## Singapore (available):
+## South Korea:
 
 > Supported IPv6.
 >
-> Netflix:  All unlock (SG) , unlock with WARP.
+> Netflix:  All unlock (KR) , unlock with WARP.
 >
-> Speedtest:![](SG.png "speedtest")
+> Speedtest:![](KR.png "speedtest")
 >
-> | Hostname         | 139.180.133.204.vultrusercontent.com                                 |
+> | Hostname         | 	158-247-249-116.constant.com                                 |
 > | ---------------- | ---------------------------------------- |
 > | ISP              | 	Vultr                              |
 > | IP Organization  | 	Vultr                             |
@@ -55,143 +55,28 @@ IPv4:
 Domain:
 
 ```
-sg.867678.xyz
+kr.867678.xyz
 ```
 
 Domain(Cloudflare CDN):
 
 ```
-sg2.867678.xyz
+kr2.867678.xyz
 ```
 
 IPv4:
 
 ```
-139.180.133.204
+158.247.249.116
 ```
 
 IPv6:
 
 ```
-2001:19f0:4400:6478:5400:05ff:fe09:5206
+2401:c080:1c02:1032:5400:05ff:fe16:7929
 ```
 ------
 
-## Tokyo Japan(available):
-
-> Supported IPv6 in.
->
-> Netflix:  All unlock (JP) , unlock with WARP.
->
-> Speedtest:![](GC.png "speedtest")
->
-> | Hostname         | **None**                                 |
-> | ---------------- | ---------------------------------------- |
-> | ISP              | G-Core Labs                              |
-> | IP Organization  | G-Core Labs                              |
-> | ASN              | [AS199524](https://ip.sb/whois/AS199524) |
-> | ASN Organization | G-Core Labs S.A.                         |
-
-Domain:
-
-```
-jp.867678.xyz
-```
-
-Domain(Cloudflare CDN):
-
-```
-jp2.867678.xyz
-```
-
-IPv4:
-
-```
-94.177.131.14
-```
-
-IPv6:
-
-```
-2a03:90c0:112:1::357
-```
-------
-
-## Germany Frankfurt(not available):
-
-> Supported IPv6 in.
->
-> Netflix:  All unlock (DE) , unlock with WARP.
->
-> Speedtest:![](DE.png "speedtest")
->
-> | Hostname         | **None**                                 |
-> | ---------------- | ---------------------------------------- |
-> | ISP              | G-Core Labs                              |
-> | IP Organization  | G-Core Labs                              |
-> | ASN              | [AS199524](https://ip.sb/whois/AS199524) |
-> | ASN Organization | G-Core Labs S.A.                         |
-
-Domain:
-
-```
-de.867678.xyz
-```
-
-Domain(Cloudflare CDN):
-
-```
-de2.867678.xyz
-```
-
-IPv4:
-
-```
-80.240.112.147
-```
-
-IPv6:
-
-```
-2a03:90c0:92:1::40f
-```
-
-------
-
-## Abuja Nigeria (available):
-
-> Not Supported IPv6.
->
-> Netflix:  All unlock (NG) , unlock with WARP.
->
-> Speedtest:![](NG.png "speedtest")
->
-> | Hostname         | **None**                                 |
-> | ---------------- | ---------------------------------------- |
-> | ISP              | Suburban-Broadband                       |
-> | IP Organization  | Suburban-Broadband                       |
-> | ASN              | [AS37004](https://ip.sb/whois/AS37004)   |
-> | ASN Organization | Suburban-Broadband                       |
-
-Domain:
-
-```
-ng.867678.xyz
-```
-
-Domain(Cloudflare CDN):
-
-```
-ng2.867678.xyz
-```
-
-IPv4:
-
-```
-41.73.0.96
-```
-
-------
 # What can them do?
 
 ### Cloudflare proxy IP
