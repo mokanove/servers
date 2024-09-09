@@ -2,7 +2,17 @@
 
 > Need root accept.
 
+## cf-speedtest.sh:
 
+```
+wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/cf-speedtest.sh && sh cf-speedtest.sh
+```
+
+Delete:
+
+```
+sudo rm cf-speedtest.sh CloudflareST ip.txt
+```
 
 ## check-netflix-unlock:
 
