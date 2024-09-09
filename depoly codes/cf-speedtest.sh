@@ -4,7 +4,7 @@ echo "The first IP is best Cloudflare IP for this server."
 echo "The author is not responsible for any consequences of using this code."
 read -p "please input enter start install." a
 wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/CloudflareST
-wget https://github.com/Kilumkothn/IPs/blob/main/CDNIPs/Cloudflare.txt -O ip.txt
+wget https://raw.githubusercontent.com/Kilumkothn/IPs/main/CDNIPs/Cloudflare.txt -O ip.txt
 chmod 777 CloudflareST
 ./CloudflareST
 echo "All Done!"
