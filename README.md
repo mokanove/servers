@@ -37,15 +37,15 @@ IPv4:
 
 ------
 
-## South Korea:
+## Japan Tokyo:
 
 > Supported IPv6.
 >
-> Netflix:  All unlock (KR) , unlock with WARP.
+> Netflix:  All unlock (JP) , unlock with WARP.
 >
-> Speedtest:![](KR.png "speedtest")
+> Speedtest:![](JP.png "speedtest")
 >
-> | Hostname         | 	158-247-249-116.constant.com                                 |
+> | Hostname         | 	139.180.204.132.vultrusercontent.com    |
 > | ---------------- | ---------------------------------------- |
 > | ISP              | 	Vultr                              |
 > | IP Organization  | 	Vultr                             |
@@ -55,25 +55,25 @@ IPv4:
 Domain:
 
 ```
-kr.867678.xyz
+jp.867678.xyz
 ```
 
 Domain(Cloudflare CDN):
 
 ```
-kr2.867678.xyz
+jp2.867678.xyz
 ```
 
 IPv4:
 
 ```
-158.247.249.116
+139.180.204.132
 ```
 
 IPv6:
 
 ```
-2401:c080:1c02:1032:5400:05ff:fe16:7929
+2001:19f0:7001:41fd:5400:05ff:fe16:f772
 ```
 ------
 
