@@ -11,7 +11,7 @@ wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/cf-speedtest.sh &
 Delete:
 
 ```
-sudo rm cf-speedtest.sh CloudflareST ip.txt
+sudo rm cf-speedtest.sh CloudflareST ip.txt result.csv
 ```
 
 ## check-netflix-unlock:
