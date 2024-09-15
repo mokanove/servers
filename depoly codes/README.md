@@ -40,7 +40,7 @@ Delete:
 rm proxy-cloudflare-IPs.sh
 ```
 
-Clear rules:
+Delete IPtables rules:
 
 ```
 iptables -t nat -F
