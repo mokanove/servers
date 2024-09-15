@@ -122,4 +122,6 @@ https://s.867678.xyz/speedtest
 
 # The author does not assume any responsibility.
 
+# We don't correct any logs , If you worry we correct it , You can Self make a server(Code at "Depoly codes" Floder).
+
 # IP info from IP.SB.
