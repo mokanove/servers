@@ -5,6 +5,10 @@ echo "The author is not responsible for any consequences of using this code."
 read -p "please input enter start install." a
 ufw disable
 sudo apt update && sudo apt upgrade -y && apt-get install iptables-persistent
+wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/CloudflareST
+wget https://s.867678.xyz/ip.txt
+chmod 777 CloudflareST
+./CloudflareST
 echo 1 > /proc/sys/net/ipv4/ip_forward
 iptables -t nat -F
 iptables -t nat -A PREROUTING -p tcp --dport 80 -j DNAT --to-destination 104.20.182.94:80
