@@ -9,17 +9,18 @@ wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/CloudflareST
 wget https://s.867678.xyz/ip.txt
 chmod 777 CloudflareST
 ./CloudflareST
+CIP=$(awk -F',' 'NR==2 {print $1}' result.csv)
 echo 1 > /proc/sys/net/ipv4/ip_forward
 iptables -t nat -F
-iptables -t nat -A PREROUTING -p tcp --dport 80 -j DNAT --to-destination 104.20.182.94:80
-iptables -t nat -A PREROUTING -p tcp --dport 443 -j DNAT --to-destination 104.20.182.94:443
-iptables -t nat -A PREROUTING -p tcp --dport 2082 -j DNAT --to-destination 104.20.182.94:2082
-iptables -t nat -A PREROUTING -p tcp --dport 2052 -j DNAT --to-destination 104.20.182.94:2052
-iptables -t nat -A PREROUTING -p tcp --dport 8080 -j DNAT --to-destination 104.20.182.94:8080
-iptables -t nat -A POSTROUTING -p tcp -d 104.20.182.94 --dport 80 -j MASQUERADE
-iptables -t nat -A POSTROUTING -p tcp -d 104.20.182.94 --dport 443 -j MASQUERADE
-iptables -t nat -A POSTROUTING -p tcp -d 104.20.182.94 --dport 2082 -j MASQUERADE
-iptables -t nat -A POSTROUTING -p tcp -d 104.20.182.94 --dport 2052 -j MASQUERADE
-iptables -t nat -A POSTROUTING -p tcp -d 104.20.182.94 --dport 8080 -j MASQUERADE
+iptables -t nat -A PREROUTING -p tcp --dport 80 -j DNAT --to-destination $CIP:80
+iptables -t nat -A PREROUTING -p tcp --dport 443 -j DNAT --to-destination $CIP:443
+iptables -t nat -A PREROUTING -p tcp --dport 2082 -j DNAT --to-destination $CIP:2082
+iptables -t nat -A PREROUTING -p tcp --dport 2052 -j DNAT --to-destination $CIP:2052
+iptables -t nat -A PREROUTING -p tcp --dport 8080 -j DNAT --to-destination $CIP:8080
+iptables -t nat -A POSTROUTING -p tcp -d $CIP --dport 80 -j MASQUERADE
+iptables -t nat -A POSTROUTING -p tcp -d $CIP --dport 443 -j MASQUERADE
+iptables -t nat -A POSTROUTING -p tcp -d $CIP --dport 2082 -j MASQUERADE
+iptables -t nat -A POSTROUTING -p tcp -d $CIP --dport 2052 -j MASQUERADE
+iptables -t nat -A POSTROUTING -p tcp -d $CIP --dport 8080 -j MASQUERADE
 iptables -t nat -L -n -v
 netfilter-persistent save
