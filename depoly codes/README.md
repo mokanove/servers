@@ -2,6 +2,17 @@
 
 > Need root accept.
 
+## auto-config-a-server.sh
+```
+wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/auto-config-a-server.sh && sh auto-config-a-server.sh.sh
+```
+
+Delete:
+```
+iptables -t nat -F&&sudo rm /etc/apt/sources.list.d/cloudflare-client.list && sudo apt update && sudo apt remove warp-cli -y
+```
+
+
 ## cf-speedtest.sh:
 
 ```
