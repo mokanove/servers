@@ -8,7 +8,7 @@ read -p "please input enter start install." a
 sudo apt update 
 sudo apt upgrade -y
 ufw disable
-sudo apt-get install iptables-persistent
+sudo apt-get install iptables-persistent -y
 wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/CloudflareST
 wget https://s.867678.xyz/ip.txt
 chmod 777 CloudflareST
