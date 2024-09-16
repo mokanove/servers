@@ -4,7 +4,7 @@
 
 ## auto-config-a-server.sh
 ```
-wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/auto-config-a-server.sh && sh auto-config-a-server.sh.sh
+wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/auto-config-a-server.sh && sh auto-config-a-server.sh
 ```
 
 Delete:
