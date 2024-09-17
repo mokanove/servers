@@ -1,5 +1,4 @@
 #!/bin/bash
-echo "If your server is ubuntu 24.04 , please input ctrl+c , because cloudflare isn't have compatible versions"
 echo "It work in 40000 port , so you need a x-ui config socks."
 echo "Do you want install it? "
 echo "The author is not responsible for any consequences of using this code."
