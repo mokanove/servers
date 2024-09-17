@@ -26,3 +26,5 @@ iptables -t nat -A POSTROUTING -p tcp -d $CIP --dport 2052 -j MASQUERADE
 iptables -t nat -A POSTROUTING -p tcp -d $CIP --dport 8080 -j MASQUERADE
 iptables -t nat -L -n -v
 netfilter-persistent save
+rm CloudflareST ip.txt
+echo "The Script is compelet!"
