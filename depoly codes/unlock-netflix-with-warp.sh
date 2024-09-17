@@ -11,5 +11,6 @@ sudo rm /etc/apt/sources.list.d/cloudflare-client.list
 curl https://pkg.cloudflareclient.com/pubkey.gpg | sudo gpg --yes --dearmor --output /usr/share/keyrings/cloudflare-warp-archive-keyring.gpg
 echo "deb [arch=amd64 signed-by=/usr/share/keyrings/cloudflare-warp-archive-keyring.gpg] https://pkg.cloudflareclient.com/ $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/cloudflare-client.list
 read -p "You need agree the lisense to next , please input enter and next." a
-sudo apt update&&sudo apt upgrade -y&&apt install cloudflare-warp -y&&warp-cli register
+sudo apt update&&sudo apt upgrade -y&&apt install cloudflare-warp -y&&warp-cli registration new 
 warp-cli mode proxy&&warp-cli connect
+rm unlock-netflix-with-warp.sh
