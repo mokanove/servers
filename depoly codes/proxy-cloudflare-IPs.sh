@@ -6,7 +6,7 @@ echo "The project by XIU2:https://github.com/XIU2/CloudflareSpeedTest"
 echo "It will be off the firewall !"
 read -p "please input enter start install." a
 ufw disable
-sudo apt update && sudo apt upgrade -y && apt-get install iptables-persistent
+sudo apt update && sudo apt upgrade -y && apt-get install iptables-persistent netfilter-persistent -y
 wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/CloudflareST
 wget https://s.867678.xyz/ip.txt
 chmod 777 CloudflareST
