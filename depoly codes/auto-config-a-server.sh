@@ -7,7 +7,7 @@ read -p "please input enter start install." a
 
 sudo apt update 
 sudo apt upgrade -y
-sudo ufw allow 40000 1111 80 81 2052 2082
+sudo ufw allow 40000 80 443 81 2052 2082 8080
 wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/proxy-cloudflare-IPs.sh && sh proxy-cloudflare-IPs.sh
 wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/unlock-netflix-with-warp.sh && sh unlock-netflix-with-warp.sh
 wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/cf-speedtest.sh && sh cf-speedtest.sh
