@@ -8,7 +8,7 @@
 >
 > Netflix: only netflix original drama (US) , unlock with WARP.
 >
-> Speedtest:![http://us.867678.xyz:81/](RN.png "speedtest")
+> Speedtest(Click the image to Download speedtest from this server.):![http://us.867678.xyz:81/](RN.png "speedtest")
 >
 > | Hostname         | 107-172-234-42-host.colocrossing.com   |
 > | ---------------- | -------------------------------------- |
@@ -37,15 +37,15 @@ IPv4:
 
 ------
 
-## Seoul , South Korea:
+## Singapore , Singapore:
 
 > Supported IPv6.
 >
-> Netflix:  All unlock (KR) , unlock with WARP.
+> Netflix:  All unlock (SG) , unlock with WARP.
 >
-> Speedtest:![](KR.png "speedtest")
+> Speedtest(Click the image to Download speedtest from this server.):![http://sg.867678.xyz:81/](SG.png "speedtest")
 >
-> | Hostname         | 	158-247-249-116.constant.com    |
+> | Hostname         | 	207.148.120.76.vultrusercontent.com    |
 > | ---------------- | ---------------------------------------- |
 > | ISP              | 	Vultr                              |
 > | IP Organization  | 	Vultr                             |
@@ -55,25 +55,25 @@ IPv4:
 Domain:
 
 ```
-kr.867678.xyz
+sg.867678.xyz
 ```
 
 Domain(Cloudflare CDN):
 
 ```
-kr2.867678.xyz
+sg2.867678.xyz
 ```
 
 IPv4:
 
 ```
-158.247.249.116
+207.148.120.76
 ```
 
 IPv6:
 
 ```
-2401:c080:1c00:21f9:5400:05ff:fe19:32c6
+2001:19f0:4400:2aaf:5400:05ff:fe1a:d5db
 ```
 ------
 
