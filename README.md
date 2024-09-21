@@ -8,7 +8,7 @@
 >
 > Netflix: only netflix original drama (US) , unlock with WARP.
 >
-> Speedtest:![](RN.png "speedtest")
+> Speedtest:![http://us.867678.xyz:81/](RN.png "speedtest")
 >
 > | Hostname         | 107-172-234-42-host.colocrossing.com   |
 > | ---------------- | -------------------------------------- |
