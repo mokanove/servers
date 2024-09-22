@@ -8,7 +8,7 @@
 >
 > Netflix: only netflix original drama (US) , unlock with WARP.
 >
-> Speedtest(Click the image to Download speedtest from this server.):![http://us.867678.xyz:81/](RN.png "speedtest")
+> Speedtest[http://us.867678.xyz:81](Download file from this server.):![](RN.png "speedtest")
 >
 > | Hostname         | 107-172-234-42-host.colocrossing.com   |
 > | ---------------- | -------------------------------------- |
@@ -43,7 +43,7 @@ IPv4:
 >
 > Netflix:  All unlock (SG) , unlock with WARP.
 >
-> Speedtest(Click the image to Download speedtest from this server.):![http://sg.867678.xyz:81/](SG.png "speedtest")
+> Speedtest[http://sg.867678.xyz:81/](Download a file from this server.):![](SG.png "speedtest")
 >
 > | Hostname         | 	207.148.120.76.vultrusercontent.com    |
 > | ---------------- | ---------------------------------------- |
