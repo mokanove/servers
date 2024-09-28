@@ -10,9 +10,9 @@
 >
 > Speedtest:
 >
-> [http://us.867678.xyz:81](Download file from this server.)
+> [Download file from this server.](http://us.867678.xyz:81)
 >
-> [https://us.867678.xyz:82](Download file from this server with ssl.)
+> [Download file from this server with ssl.](https://us.867678.xyz:82)
 >
 > ![](RN.png "speedtest")
 >
@@ -51,9 +51,9 @@ IPv4:
 >
 > Speedtest:
 >
-> [http://sg.867678.xyz:81](Download file from this server.)
+> [Download file from this server.](http://sg.867678.xyz:81)
 >
-> [https://sg.867678.xyz:82](Download file from this server with ssl.)
+> [Download file from this server with ssl.](https://sg.867678.xyz:82)
 >
 > ![](SG.png "speedtest")
 >
@@ -97,9 +97,9 @@ IPv6:
 >
 > Speedtest:
 >
-> [http://hk.867678.xyz:81](Download file from this server.)
+> [Download file from this server.](http://hk.867678.xyz:81)
 >
-> [https://hk.867678.xyz:82](Download file from this server with ssl.)
+> [Download file from this server with ssl.](https://hk.867678.xyz:82)
 >
 > ![](HK.png "speedtest")
 >
