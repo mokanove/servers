@@ -4,7 +4,7 @@
 
 ## United States San Jose:
 
-> Not support IPv6 in , support IPv6 out.
+> Not support IPv6 input , support IPv6 output(warp output port).
 >
 > Netflix: only netflix original drama (US) , unlock with WARP.
 >
