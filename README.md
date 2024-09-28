@@ -8,7 +8,11 @@
 >
 > Netflix: only netflix original drama (US) , unlock with WARP.
 >
-> Speedtest[http://us.867678.xyz:81](Download file from this server.):
+> Speedtest:
+>
+> [http://us.867678.xyz:81](Download file from this server.)
+>
+> [https://us.867678.xyz:82](Download file from this server with ssl.)
 >
 > ![](RN.png "speedtest")
 >
@@ -45,7 +49,11 @@ IPv4:
 >
 > Netflix:  All unlock (SG) , unlock with WARP.
 >
-> Speedtest[http://sg.867678.xyz:81/](Download a file from this server.):
+> Speedtest:
+>
+> [http://sg.867678.xyz:81](Download file from this server.)
+>
+> [https://sg.867678.xyz:82](Download file from this server with ssl.)
 >
 > ![](SG.png "speedtest")
 >
@@ -81,6 +89,51 @@ IPv6:
 ```
 ------
 
+## Hongkong , Hongkong:
+
+> Supported IPv6.
+>
+> Netflix:  All unlock (HK) , unlock without WARP.
+>
+> Speedtest:
+>
+> [http://hk.867678.xyz:81](Download file from this server.)
+>
+> [https://hk.867678.xyz:82](Download file from this server with ssl.)
+>
+> ![](HK.png "speedtest")
+>
+> | Hostname         | 		None    |
+> | ---------------- | ---------------------------------------- |
+> | ISP              | 	Akile                              |
+> | IP Organization  | 	Akile                             |
+> | ASN              | [AS61112](https://ip.sb/whois/AS61112) |
+> | ASN Organization | 		AKILE LTD                         |
+
+Domain:
+
+```
+hk.867678.xyz
+```
+
+Domain(Cloudflare CDN):
+
+```
+hk2.867678.xyz
+```
+
+IPv4:
+
+```
+141.11.148.62
+```
+
+IPv6:
+
+```
+2401:b60:5:0:fde6:329f:2983:1092
+```
+------
 # What can them do?
 
 ### Cloudflare proxy IP
