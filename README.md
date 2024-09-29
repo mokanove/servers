@@ -1,5 +1,6 @@
 # These are some servers with special features.
 
+# Now , we need reinstall and reconfig the all servers , So some services maybe not available.
 ------
 
 ## United States San Jose:
