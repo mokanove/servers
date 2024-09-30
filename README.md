@@ -1,15 +1,14 @@
 # These are some servers with special features.
 
-# Now , we need reinstall and reconfig the all servers , So some services maybe not available.
 ------
 
 ## United States San Jose:
 
-> Not support IPv6 input , support IPv6 output(warp output port).
+> Does not support IPV6 inbound, supports IPV6 outbound (use warp to take over IPV6)
 >
-> Netflix: only netflix original drama (US) , unlock with WARP.
+> Netflix: Unlocks non-original series and can be used in full (region is the United States)
 >
-> Speedtest:
+> Speed test:
 >
 > [Download file from this server.](http://us.867678.xyz:81)
 >
@@ -44,59 +43,59 @@ IPv4:
 
 ------
 
-## Singapore , Singapore:
+## Tokyo , Japan:
 
-> Supported IPv6.
+> Full IPV6 support.
 >
-> Netflix:  All unlock (SG) , unlock with WARP.
+> Netflix: Unlocks non-original series and can be used in full (region is the Japan)
 >
-> Speedtest:
+> Speed test:
 >
 > [Download file from this server.](http://sg.867678.xyz:81)
 >
 > [Download file from this server with ssl.](https://sg.867678.xyz:82)
 >
-> ![](SG.png "speedtest")
+> ![](JP.png "speedtest")
 >
-> | Hostname         | 	207.148.120.76.vultrusercontent.com    |
-> | ---------------- | ---------------------------------------- |
-> | ISP              | 	Vultr                              |
-> | IP Organization  | 	Vultr                             |
+> | Hostname         | 104.238.161.181.vultrusercontent.com   |
+> | ---------------- | -------------------------------------- |
+> | ISP              | Vultr                                  |
+> | IP Organization  | Vultr                                  |
 > | ASN              | [AS20473](https://ip.sb/whois/AS20473) |
-> | ASN Organization | 	AS-CHOOPA                         |
+> | ASN Organization | AS-CHOOPA                              |
 
 Domain:
 
 ```
-sg.867678.xyz
+jp.867678.xyz
 ```
 
 Domain(Cloudflare CDN):
 
 ```
-sg2.867678.xyz
+jp2.867678.xyz
 ```
 
 IPv4:
 
 ```
-207.148.120.76
+104.238.161.181
 ```
 
 IPv6:
 
 ```
-2001:19f0:4400:2aaf:5400:05ff:fe1a:d5db
+2001:19f0:7001:1307:5400:05ff:fe1d:6365
 ```
 ------
 
 ## Hongkong , Hongkong:
 
-> Supported IPv6.
+> Full IPV6 support.
 >
-> Netflix:  All unlock (HK) , unlock without WARP.
+> Netflix: Unlocks non-original series and can be used in full (region is the Hongkong)
 >
-> Speedtest:
+> Speed test:
 >
 > [Download file from this server.](http://hk.867678.xyz:81)
 >
@@ -135,23 +134,66 @@ IPv6:
 2401:b60:5:0:fde6:329f:2983:1092
 ```
 ------
+## Frankfurt am main Germany :
+
+> Full IPV6 support.
+>
+> Netflix: Unlocks non-original series and can be used in full (region is the Hongkong)
+>
+> Speed test:
+>
+> [Download file from this server.](http://de.867678.xyz:81)
+>
+> [Download file from this server with ssl.](https://de.867678.xyz:82)
+>
+> ![](de.png "speedtest")
+>
+> | Hostname         | **None**                                 |
+> | ---------------- | ---------------------------------------- |
+> | ISP              | Evoxt Enterprise                         |
+> | IP Organization  | Evoxt Enterprise                         |
+> | ASN              | [AS149440](https://ip.sb/whois/AS149440) |
+> | ASN Organization | Evoxt Enterprise                         |
+
+
+
+```
+de.867678.xyz
+```
+
+Domain(Cloudflare CDN):
+
+```
+de2.867678.xyz
+```
+
+IPv4:
+
+```
+141.11.148.62
+```
+
+IPv6:
+
+```
+2400:8d60:4:0000:0000:0001:51f6:6570
+```
+
+------
+
+
+
 # What can them do?
 
 ### Cloudflare proxy IP
 
-> In port 80 and 443 and 2052 and 2082 and 8080
->
-> them proxied Cloudflare domain. 
->
-> So if you Cloudflare connect speed is bad 
->
-> you can get height speed in this servers.
+> On these servers, ports 80, 443, 2052, 2082, and 8080 are reverse proxied to Cloudflare CDN. If your Cloudflare speed is very slow, you can try to configure IP force pointing to get high speed from these servers.
 
 
 
 ### Proxy IP(SNI IP)
 
-> If you use cloudflare workers build vless proxy
+> If you using cloudflare workers build vless proxy
 >
 > You will need proxy IP , Without them, you won't be able to open your Cloudflare website.
 >
@@ -161,7 +203,7 @@ IPv6:
 
 # Cloudflare free services.
 
-## Speedtest URL :
+## Speed test URL :
 
 > Cloudflare R2 
 >
@@ -176,10 +218,10 @@ https://s.867678.xyz/speedtest
 ------
 
 
-# More servers is buliding.
+# More servers is building.
 
 # The author does not assume any responsibility.
 
-# We don't collect any logs , If you worry we collect it , You can Self make a server(Code at "Depoly codes" Floder).
+# We don't collect any logs , If you worry we collect it , You can Self make a server(Code at "Deploy codes" Floder).
 
 # IP info from IP.SB.
