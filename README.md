@@ -146,7 +146,7 @@ IPv6:
 >
 > [Download file from this server with ssl.](https://de.867678.xyz:82)
 >
-> ![](de.png "speedtest")
+> ![](DE.png "speedtest")
 >
 > | Hostname         | **None**                                 |
 > | ---------------- | ---------------------------------------- |
