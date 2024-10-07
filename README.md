@@ -148,7 +148,7 @@ IPv6:
 >
 > ![](DE.png "speedtest")
 >
-> | Hostname         | **None**                                 |
+> | Hostname         | hc-lklo-01.evoxt.com                     |
 > | ---------------- | ---------------------------------------- |
 > | ISP              | Evoxt Enterprise                         |
 > | IP Organization  | Evoxt Enterprise                         |
