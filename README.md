@@ -43,52 +43,6 @@ IPv4:
 
 ------
 
-## Tokyo , Japan:
-
-> Full IPV6 support.
->
-> Netflix: Unlocks non-original series and can be used in full (region is the Japan)
->
-> Speed test:
->
-> [Download file from this server.](http://sg.867678.xyz:81)
->
-> [Download file from this server with ssl.](https://sg.867678.xyz:82)
->
-> ![](JP.png "speedtest")
->
-> | Hostname         | 104.238.161.181.vultrusercontent.com   |
-> | ---------------- | -------------------------------------- |
-> | ISP              | Vultr                                  |
-> | IP Organization  | Vultr                                  |
-> | ASN              | [AS20473](https://ip.sb/whois/AS20473) |
-> | ASN Organization | AS-CHOOPA                              |
-
-Domain:
-
-```
-jp.867678.xyz
-```
-
-Domain(Cloudflare CDN):
-
-```
-jp2.867678.xyz
-```
-
-IPv4:
-
-```
-104.238.161.181
-```
-
-IPv6:
-
-```
-2001:19f0:7001:1307:5400:05ff:fe1d:6365
-```
-------
-
 ## Hongkong , Hongkong:
 
 > Full IPV6 support.
