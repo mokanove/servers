@@ -9,7 +9,7 @@
 > Using it, you can configure a server with the same functions as the home page.
 
 ```
-wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/config && sh auto-config-a-server.sh
+wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/config.sh && sh config.sh
 ```
 
 Delete:
@@ -40,7 +40,7 @@ sudo rm cf-speedtest.sh CloudflareST ip.txt result.csv
 > Proxy Cloudflare IP.
 
 ```
-wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/proxy.sh && sh proxy-cloudflare-IPs.sh
+wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/proxy.sh && sh proxy.sh
 ```
 
 Delete:
@@ -62,13 +62,13 @@ iptables -t nat -F
 > Use the official Speed test tool to test the server speed.
 
 ```
-wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/speedtest.sh && sh speedtest-cli-ubuntu.sh
+wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/speedtest.sh && sh speedtest.sh
 ```
 
 Delete:
 
 ```
-sudo rm /etc/apt/sources.list.d/speedtest.list&&sudo apt-get update&&sudo apt-get remove speedtest&&sudo apt-get remove speedtest-cli&&rm speedtest-cli-ubuntu.sh
+sudo rm /etc/apt/sources.list.d/speedtest.list&&sudo apt-get update&&sudo apt-get remove speedtest&&sudo apt-get remove speedtest-cli&&rm speedtest.sh
 ```
 
 ------
@@ -78,13 +78,13 @@ sudo rm /etc/apt/sources.list.d/speedtest.list&&sudo apt-get update&&sudo apt-ge
 > Use a third-party tool to check Netflix unblocking status.
 
 ```
-wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/check-netflix.sh && sh check-netflix-unlock.sh
+wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/check-netflix.sh && sh check-netflix.sh
 ```
 
 Delete:
 
 ```
-rm check-netflix-unlock.sh&&rm nf
+rm check-netflix.sh&&rm nf
 ```
 
 ------
@@ -94,7 +94,7 @@ rm check-netflix-unlock.sh&&rm nf
 > If your server does not support unblocking Netflix, you can try using Cloudflare's free VPN service warp to unblock it.
 
 ```
-wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/unlock-netflix.sh && sh unlock-netflix-with-warp.sh
+wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/unlock-netflix.sh && sh unlock-netflix.sh
 ```
 
 Delete:
