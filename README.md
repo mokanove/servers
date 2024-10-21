@@ -92,7 +92,7 @@ IPv6:
 
 > Full IPV6 support.
 >
-> Netflix: Unlocks non-original series and can be used in full (region is the Hongkong)
+> Netflix: Unlocks non-original series and can be used in full (region is the Germany)
 >
 > Speed test:
 >
