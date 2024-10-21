@@ -157,6 +157,11 @@ IPv6:
 
 # Cloudflare free services.
 
+
+## Cloudflare Best Domain:
+
+
+
 ## Speed test URL :
 
 > Cloudflare R2 
