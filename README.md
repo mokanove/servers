@@ -160,7 +160,15 @@ IPv6:
 
 ## Cloudflare Best Domain:
 
+>
+>To use, you only need to configure a forced point
+>
+>For example, force the IP address of 867678.xyz to be changed to the IP address of cf.867678.xyz
+>
 
+```
+cf.867678.xyz
+```
 
 ## Speed test URL :
 
