@@ -96,11 +96,11 @@ IPv6:
 >
 > Speed test:
 >
-> [Download file from this server.](http://de.867678.xyz:81)
+> [Download file from this server.](http://jp.867678.xyz:81)
 >
-> [Download file from this server with ssl.](https://de.867678.xyz:82)
+> [Download file from this server with ssl.](https://jp.867678.xyz:82)
 >
-> ![](DE.png "speedtest")
+> ![](JP.png "speedtest")
 >
 > | Hostname         | hc-lklo-01.evoxt.com                     |
 > | ---------------- | ---------------------------------------- |
