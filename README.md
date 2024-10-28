@@ -102,7 +102,7 @@ IPv6:
 >
 > ![](JP.png "speedtest")
 >
-> | Hostname         | hc-lklo-01.evoxt.com                     |
+> | Hostname         | hc-dxez-01.evoxt.com                     |
 > | ---------------- | ---------------------------------------- |
 > | ISP              | Evoxt Enterprise                         |
 > | IP Organization  | Evoxt Enterprise                         |
