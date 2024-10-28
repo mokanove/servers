@@ -88,7 +88,7 @@ IPv6:
 2401:b60:5:0:fde6:329f:2983:1092
 ```
 ------
-## Frankfurt am main Germany :
+## Tokyo , Japan :
 
 > Full IPV6 support.
 >
@@ -112,25 +112,25 @@ IPv6:
 
 
 ```
-de.867678.xyz
+jp.867678.xyz
 ```
 
 Domain(Cloudflare CDN):
 
 ```
-de2.867678.xyz
+jp2.867678.xyz
 ```
 
 IPv4:
 
 ```
-142.111.77.92
+23.27.201.17
 ```
 
 IPv6:
 
 ```
-2400:8d60:4::1:51f6:6570
+2400:8d60:10::fe21:286f
 ```
 
 ------
