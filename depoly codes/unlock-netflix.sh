@@ -11,4 +11,4 @@ sudo apt-get update && sudo apt-get install cloudflare-warp -y
 read -p "You need agree the lisense to next , please input enter and next." b
 warp-cli registration new -y
 warp-cli mode proxy&&warp-cli connect
-rm unlock-netflix-with-warp.sh
+rm unlock-netflix.sh
