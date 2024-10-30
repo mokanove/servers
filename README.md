@@ -43,7 +43,7 @@ IPv4:
 
 ------
 
-## Hongkong , Hongkong:
+## Hongkong , China:
 
 > Full IPV6 support.
 >
@@ -92,7 +92,7 @@ IPv6:
 
 > Full IPV6 support.
 >
-> Netflix: Unlocks non-original series and can be used in full (region is the Germany)
+> Netflix: Unlocks non-original series and can be used in full (region is the Japan)
 >
 > Speed test:
 >
