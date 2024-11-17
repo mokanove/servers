@@ -46,7 +46,7 @@ wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/proxy.sh && sh pr
 Delete:
 
 ```
-rm proxy-cloudflare-IPs.sh
+rm proxy.sh
 ```
 
 Delete Iptables rules:
@@ -100,7 +100,7 @@ wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/unlock-netflix.sh
 Delete:
 
 ```
-sudo rm /etc/apt/sources.list.d/cloudflare-client.list && sudo apt update && sudo apt remove warp-cli -y
+sudo rm /etc/apt/sources.list.d/cloudflare-client.list && sudo apt update && sudo apt remove warp-cli -y&& rm unlock-netflix.sh
 ```
 
 
