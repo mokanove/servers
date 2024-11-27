@@ -102,12 +102,12 @@ IPv6:
 >
 > ![](JP.png "speedtest")
 >
-> | Hostname         | hc-dxez-01.evoxt.com                     |
+> | Hostname         | None                     |
 > | ---------------- | ---------------------------------------- |
-> | ISP              | Evoxt Enterprise                         |
-> | IP Organization  | Evoxt Enterprise                         |
-> | ASN              | [AS149440](https://ip.sb/whois/AS149440) |
-> | ASN Organization | Evoxt Enterprise                         |
+> | ISP              | 	G-Core Labs SA                         |
+> | IP Organization  | 	G-Core Labs SA                         |
+> | ASN              | [AS199524](https://ip.sb/whois/AS199524) |
+> | ASN Organization | 	G-Core Labs SA                         |
 
 
 
@@ -124,13 +124,13 @@ jp2.867678.xyz
 IPv4:
 
 ```
-23.27.201.17
+87.120.204.86
 ```
 
 IPv6:
 
 ```
-2400:8d60:10::fe21:286f
+2a03:90c0:112:1::115
 ```
 
 ------
