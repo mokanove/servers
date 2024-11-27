@@ -4,12 +4,7 @@ echo "The author is not responsible for any consequences of using this code."
 echo "The project with XIU2:https://github.com/XIU2/CloudflareSpeedTest"
 echo "It will be allow the firewall !"
 read -p "Please input enter start install , or input ctrl+c to exit." a
-sudo apt update && sudo apt upgrade -y && apt-get install ufw iptables-persistent netfilter-persistent -y
-ufw allow 80
-ufw allow 443
-ufw allow 2082
-ufw allow 2052
-ufw allow 8080
+sudo apt update && sudo apt upgrade -y && apt-get install iptables-persistent netfilter-persistent -y
 wget https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.2.5/CloudflareST_linux_amd64.tar.gz
 tar -zxvf CloudflareST_linux_amd64.tar.gz
 rm CloudflareST_linux_amd64.tar.gz cfst_hosts.sh ip.txt ipv6.txt 使用+错误+反馈说明.txt
