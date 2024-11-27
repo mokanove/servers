@@ -68,7 +68,7 @@ wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/speedtest.sh &&su
 Delete:
 
 ```
-sudo rm /etc/apt/sources.list.d/ookla_speedtest-cli.list&&sudo apt-get update&&sudo apt-get remove speedtest&&sudo apt-get remove speedtest-cli&&rm speedtest.sh
+sudo rm /etc/apt/sources.list.d/ookla_speedtest-cli.list&&sudo apt-get remove speedtest speedtest-cli -y&&sudo apt-get update
 ```
 
 ------
