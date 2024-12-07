@@ -18,7 +18,7 @@
 
 ------
 
-## United States San Jose:
+## San Jose , California , United States:
 
 > Does not support IPV6 inbound, supports IPV6 outbound (use warp to take over IPV6)
 >
