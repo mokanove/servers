@@ -54,10 +54,10 @@ IPv4:
 74.48.125.113
 ```
 
-IPv6:
+IPv6(only outbouth):
 
 ```
-Not Support.
+2a09:bac5:636b:1846::26b:7
 ```
 
 ------
