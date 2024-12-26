@@ -19,7 +19,7 @@
 
 > No IPV6 support.
 >
-> Netflix: Unlocks original series and can be used in full (region is the US)
+> Netflix: Unlocks original series and can't be used in full (region is the US)
 >
 > Speed test:
 >
@@ -39,25 +39,25 @@
 
 
 ```
-jp.867678.xyz
+us.867678.xyz
 ```
 
 Domain(Cloudflare CDN):
 
 ```
-jp2.867678.xyz
+us2.867678.xyz
 ```
 
 IPv4:
 
 ```
-87.120.204.86
+74.48.125.113
 ```
 
 IPv6:
 
 ```
-2a03:90c0:112:1::115
+Not Support.
 ```
 
 ------
