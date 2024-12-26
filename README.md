@@ -15,6 +15,53 @@
 >
 > You can fill in the server domain name, just like "const proxyIPs = ["us.867678.xyz"];"
 
+## Los Angeles , California , USA :
+
+> No IPV6 support.
+>
+> Netflix: Unlocks original series and can be used in full (region is the US)
+>
+> Speed test:
+>
+> [Download file from this server.](http://us.867678.xyz:81)
+>
+> [Download file from this server with ssl.](https://us.867678.xyz:82)
+>
+> ![](US.png "speedtest")
+>
+> | Hostname         | None                     |
+> | ---------------- | ---------------------------------------- |
+> | ISP              | 	Multacom Corporation                         |
+> | IP Organization  | 	Multacom Corporation                         |
+> | ASN              | [AS35916](https://ip.sb/whois/AS35916) |
+> | ASN Organization | 	MULTA-ASN1                         |
+
+
+
+```
+jp.867678.xyz
+```
+
+Domain(Cloudflare CDN):
+
+```
+jp2.867678.xyz
+```
+
+IPv4:
+
+```
+87.120.204.86
+```
+
+IPv6:
+
+```
+2a03:90c0:112:1::115
+```
+
+------
+
 ## Tokyo , Japan :
 
 > Full IPV6 support.
