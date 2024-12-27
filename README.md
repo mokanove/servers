@@ -62,7 +62,7 @@ IPv6(only outbouth):
 
 ------
 
-## Tokyo , Japan :
+## Frankfuirt , Germany :
 
 > Full IPV6 support.
 >
@@ -70,11 +70,11 @@ IPv6(only outbouth):
 >
 > Speed test:
 >
-> [Download file from this server.](http://jp.867678.xyz:81)
+> [Download file from this server.](http://de.867678.xyz:81)
 >
-> [Download file from this server with ssl.](https://jp.867678.xyz:82)
+> [Download file from this server with ssl.](https://de.867678.xyz:82)
 >
-> ![](JP.png "speedtest")
+> ![](DE.png "speedtest")
 >
 > | Hostname         | None                     |
 > | ---------------- | ---------------------------------------- |
@@ -86,25 +86,25 @@ IPv6(only outbouth):
 
 
 ```
-jp.867678.xyz
+de.867678.xyz
 ```
 
 Domain(Cloudflare CDN):
 
 ```
-jp2.867678.xyz
+de2.867678.xyz
 ```
 
 IPv4:
 
 ```
-87.120.204.86
+109.61.16.25
 ```
 
 IPv6:
 
 ```
-2a03:90c0:112:1::115
+2a03:90c0:92:1::271
 ```
 
 ------
