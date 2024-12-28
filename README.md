@@ -62,7 +62,7 @@ IPv6(only outbouth):
 
 ------
 
-## Frankfuirt , Germany :
+## Tokyo , Kyoto , Japan :
 
 > Full IPV6 support.
 >
@@ -70,11 +70,11 @@ IPv6(only outbouth):
 >
 > Speed test:
 >
-> [Download file from this server.](http://de.867678.xyz:81)
+> [Download file from this server.](http://jp.867678.xyz:81)
 >
-> [Download file from this server with ssl.](https://de.867678.xyz:82)
+> [Download file from this server with ssl.](https://jp.867678.xyz:82)
 >
-> ![](DE.png "speedtest")
+> ![](JP.png "speedtest")
 >
 > | Hostname         | None                     |
 > | ---------------- | ---------------------------------------- |
@@ -98,13 +98,13 @@ de2.867678.xyz
 IPv4:
 
 ```
-109.61.16.25
+95.85.94.165
 ```
 
 IPv6:
 
 ```
-2a03:90c0:92:1::271
+2a03:90c0:112:1::4af
 ```
 
 ------
