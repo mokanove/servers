@@ -42,11 +42,6 @@
 us.867678.xyz
 ```
 
-Domain(Cloudflare CDN):
-
-```
-us2.867678.xyz
-```
 
 IPv4:
 
@@ -86,25 +81,19 @@ IPv6(only outbouth):
 
 
 ```
-de.867678.xyz
-```
-
-Domain(Cloudflare CDN):
-
-```
-de2.867678.xyz
+jp.867678.xyz
 ```
 
 IPv4:
 
 ```
-95.85.94.165
+95.85.94.223
 ```
 
 IPv6:
 
 ```
-2a03:90c0:112:1::4af
+2a03:90c0:112:1::27b
 ```
 
 ------
