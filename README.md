@@ -57,7 +57,7 @@ IPv6(only outbouth):
 
 ------
 
-## Tokyo , Kyoto , Japan :
+## Tokyo , Japan :
 
 > Full IPV6 support.
 >
@@ -73,10 +73,10 @@ IPv6(only outbouth):
 >
 > | Hostname         | None                     |
 > | ---------------- | ---------------------------------------- |
-> | ISP              | 	G-Core Labs SA                         |
-> | IP Organization  | 	G-Core Labs SA                         |
-> | ASN              | [AS199524](https://ip.sb/whois/AS199524) |
-> | ASN Organization | 	G-Core Labs SA                         |
+> | ISP              | 	 	Akile                         |
+> | IP Organization  | 	 	Akile                         |
+> | ASN              | [AS61112](https://ip.sb/whois/AS61112) |
+> | ASN Organization | 	 	AKILE LTD                         |
 
 
 
@@ -87,31 +87,18 @@ jp.867678.xyz
 IPv4:
 
 ```
-95.85.94.223
+45.192.248.248
 ```
 
 IPv6:
 
 ```
-2a03:90c0:112:1::27b
+2a13:e2c4:fefb:8b4a:72b7:bec5:9a3f:a2f
 ```
 
 ------
 
 # Cloudflare free services.
-
-
-## Cloudflare Best Domain:
-
->
->To use, you only need to configure a forced point
->
->For example, force the IP address of 867678.xyz to be changed to the IP address of cf.867678.xyz
->
-
-```
-cf.867678.xyz
-```
 
 ## Speed test URL :
 
