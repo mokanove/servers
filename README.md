@@ -98,6 +98,48 @@ IPv6:
 
 ------
 
+## Mumbai , India :
+
+> Full IPV6 support.
+>
+> Netflix: Unlocks non-original series and can be used in full (region is the India)
+>
+> Speed test:
+>
+> [Download file from this server.](http://in.867678.xyz:81)
+>
+> [Download file from this server with ssl.](https://in.867678.xyz:82)
+>
+> ![](IN.png "speedtest")
+>
+> | Hostname         | None                     |
+> | ---------------- | ---------------------------------------- |
+> | ISP              | 	 	 	G-Core Labs SA                         |
+> | IP Organization  | 	 	 	G-Core Labs SA                         |
+> | ASN              | [AS199524](https://ip.sb/whois/AS199524) |
+> | ASN Organization | 	 	G-Core Labs S.A.                         |
+
+
+
+```
+in.867678.xyz
+```
+
+IPv4:
+
+```
+185.67.125.169
+```
+
+IPv6:
+
+```
+2a03:90c0:286:1::2ed
+```
+
+------
+
+
 # Cloudflare free services.
 
 ## Speed test URL :
