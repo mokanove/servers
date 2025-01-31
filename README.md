@@ -98,19 +98,19 @@ IPv6:
 
 ------
 
-## Mumbai , India :
+## Frankfuirt am Main , Germany :
 
 > Full IPV6 support.
 >
-> Netflix: Unlocks non-original series and can be used in full (region is the India)
+> Netflix: Unlocks non-original series and can be used in full (region is the Gremany)
 >
 > Speed test:
 >
-> [Download file from this server.](http://in.867678.xyz:81)
+> [Download file from this server.](http://de.867678.xyz:81)
 >
-> [Download file from this server with ssl.](https://in.867678.xyz:82)
+> [Download file from this server with ssl.](https://de.867678.xyz:82)
 >
-> ![](IN.png "speedtest")
+> ![](DE.png "speedtest")
 >
 > | Hostname         | None                     |
 > | ---------------- | ---------------------------------------- |
@@ -122,19 +122,19 @@ IPv6:
 
 
 ```
-in.867678.xyz
+de.867678.xyz
 ```
 
 IPv4:
 
 ```
-185.67.125.169
+80.240.112.136
 ```
 
 IPv6:
 
 ```
-2a03:90c0:286:1::2ed
+2a03:90c0:92:1::5a9
 ```
 
 ------
