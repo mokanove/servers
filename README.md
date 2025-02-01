@@ -37,9 +37,13 @@
 > | ASN Organization | 	MULTA-ASN1                         |
 
 
-
+Domain of the IPV4:
 ```
 us.867678.xyz
+```
+Domain of the IPV4 with CloudflareCDN:
+```
+us2.867678.xyz
 ```
 
 
@@ -85,9 +89,13 @@ IPv6(All the three IPs):
 > | ASN Organization | 	 	AKILE LTD                         |
 
 
-
+Domain of the IPV4:
 ```
 jp.867678.xyz
+```
+Domain of the IPV4 with CloudflareCDN:
+```
+jp2.867678.xyz
 ```
 
 IPv4:
@@ -126,9 +134,13 @@ IPv6:
 > | ASN Organization | 	 	G-Core Labs S.A.                         |
 
 
-
+Domain of the IPV4:
 ```
 de.867678.xyz
+```
+Domain of the IPV4 with CloudflareCDN:
+```
+de2.867678.xyz
 ```
 
 IPv4:
