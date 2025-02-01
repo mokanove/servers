@@ -112,7 +112,7 @@ IPv6:
 
 ------
 
-## Frankfuirt am Main , Germany :
+## Frankfurt am Main , Germany :
 
 > Full IPV6 support.
 >
