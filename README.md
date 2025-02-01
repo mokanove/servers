@@ -49,7 +49,7 @@ IPv4:
 74.48.125.113
 ```
 
-IPv6(all the three IPs):
+IPv6(All the three IPs):
 
 ```
 2607:f130:0000:0153:0000:0000:ae12:43b5
