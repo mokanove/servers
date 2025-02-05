@@ -12,4 +12,5 @@ read -p "You need agree the lisense to next , please input enter and next." b
 warp-cli registration new
 warp-cli mode proxy
 warp-cli connect
+echo "Started WARP at 40000 port."
 rm unlock-netflix.sh
