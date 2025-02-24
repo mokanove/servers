@@ -100,7 +100,7 @@ wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/unlock-netflix.sh
 Delete:
 
 ```
-sudo rm /etc/apt/sources.list.d/cloudflare-client.list && sudo apt update && sudo apt remove warp-cli -y&& rm unlock-netflix.sh
+sudo rm /etc/apt/sources.list.d/cloudflare-client.list && sudo apt update && sudo apt remove cloudflare-warp -y&& rm unlock-netflix.sh
 ```
 
 
