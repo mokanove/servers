@@ -2,7 +2,7 @@
 
 > Need root accept.
 >
-> And Ubuntu operating system.
+> And Ubuntu or debian operating system.
 
 ## config.sh
 
