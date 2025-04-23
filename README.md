@@ -4,7 +4,9 @@
 ### Cloudflare proxy IP
 
 > On these servers, ports 80, 443, 2052, 2082, and 8080 are reverse proxied to Cloudflare CDN. If your Cloudflare speed is very slow, you can try to configure IP force pointing to get high speed from these servers.
+### Iperf3 Speedtest
 
+> These servers has iperf3 service , you kan using : iperf3 -c [IP/Domain] -R to speedtest
 
 
 ### Proxy IP(SNI IP)
