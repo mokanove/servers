@@ -18,8 +18,11 @@ OR using :
 iperf3 -c [IP/Domain]
 ```
 to speedtest your upload speed
+
 #### HTTP Download
+
 > Cleck [Download file from this server.] or [Download file from this server with ssl.] to using http download a 300MiB file.
+
 ### Proxy IP(SNI IP)
 
 > If you using cloudflare workers build vless proxy
@@ -27,6 +30,11 @@ to speedtest your upload speed
 > You will need proxy IP , Without them, you won't be able to open your Cloudflare website.
 >
 > You can fill in the server domain name, just like "const proxyIPs = ["us.867678.xyz"];"
+
+### Free Proxy Server
+
+>Using socks5://[server IP/Domain] to using free socks5 proxy , but not support UDP
+>Uh... Please you save me monies , I've for love to made them.
 
 ## Los Angeles , California , USA :
 
