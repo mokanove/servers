@@ -134,51 +134,6 @@ IPv6:
 
 ------
 
-## Frankfurt am Main , Germany :
-
-> Full IPV6 support.
->
-> Netflix: Unlocks non-original series and can be used in full (region is the Gremany)
->
-> Speed test:
->
-> [Download file from this server.](http://de.867678.xyz:81)
->
-> [Download file from this server with ssl.](https://de.867678.xyz:82)
->
-> ![](DE.png "speedtest")
->
-> | Hostname         | None                     |
-> | ---------------- | ---------------------------------------- |
-> | ISP              | 	 	 	G-Core Labs SA                         |
-> | IP Organization  | 	 	 	G-Core Labs SA                         |
-> | ASN              | [AS199524](https://ip.sb/whois/AS199524) |
-> | ASN Organization | 	 	G-Core Labs S.A.                         |
-
-
-Domain of the IPV4:
-```
-de.867678.xyz
-```
-Domain of the IPV4 with CloudflareCDN:
-```
-de2.867678.xyz
-```
-
-IPv4:
-
-```
-80.240.112.136
-```
-
-IPv6:
-
-```
-2a03:90c0:92:1::5a9
-```
-
-------
-
 
 # Cloudflare free services.
 
