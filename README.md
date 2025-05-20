@@ -39,7 +39,7 @@ to speedtest your upload speed
 
 ## Los Angeles , California , USA :
 
-> No IPV6 support.
+> Full IPV6 support.
 >
 > Netflix: Unlocks original series and can't be used in full (region is the US)
 >
