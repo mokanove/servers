@@ -89,7 +89,7 @@ IPv6(All the three IPs):
 
 ------
 
-## Tokyo , Japan :
+## Osaka , Japan :
 
 > Full IPV6 support.
 >
@@ -105,10 +105,10 @@ IPv6(All the three IPs):
 >
 > | Hostname         | None                     |
 > | ---------------- | ---------------------------------------- |
-> | ISP              | 	 	Akile                         |
-> | IP Organization  | 	 	Akile                         |
-> | ASN              | [AS61112](https://ip.sb/whois/AS61112) |
-> | ASN Organization | 	 	AKILE LTD                         |
+> | ISP              | 	 		Evoxt Enterprise                         |
+> | IP Organization  | 	 	Evoxt Enterprise                         |
+> | ASN              | [AS149440](https://ip.sb/whois/AS149440) |
+> | ASN Organization | 	 		Evoxt Enterprise                         |
 
 
 Domain of the IPV4:
@@ -123,13 +123,13 @@ jp2.867678.xyz
 IPv4:
 
 ```
-23.27.52.65
+166.88.100.243
 ```
 
 IPv6:
 
 ```
-2400:8d60:10:0000:0000:0000:7298:04c2
+2400:8d60:8:0000:0000:0000:0c0b:1ea8
 ```
 
 ------
