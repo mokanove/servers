@@ -29,8 +29,7 @@ iptables -t nat -F
 ## speedtest.sh:
 
 > Use the official Speed test tool to test the server speed.
->
-> WARN: IT NOT SUPPORT UBUNTU24!
+
 
 ```
 wget https://github.com/mokanove/servers/raw/main/depoly%20codes/speedtest.sh &&sudo sh speedtest.sh
