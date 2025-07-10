@@ -9,7 +9,7 @@
 > Proxy Cloudflare IP.
 
 ```
-wget https://github.com/mokanove/IPs/raw/main/depoly%20codes/proxy.sh &&sudo sh proxy.sh
+wget https://github.com/mokanove/servers/raw/main/depoly%20codes/proxy.sh &&sudo sh proxy.sh
 ```
 
 Delete:
@@ -33,7 +33,7 @@ iptables -t nat -F
 > WARN: IT NOT SUPPORT UBUNTU24!
 
 ```
-wget https://github.com/mokanove/IPs/raw/main/depoly%20codes/speedtest.sh &&sudo sh speedtest.sh
+wget https://github.com/mokanove/servers/raw/main/depoly%20codes/speedtest.sh &&sudo sh speedtest.sh
 ```
 
 Delete:
