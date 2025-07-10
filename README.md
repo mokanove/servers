@@ -51,12 +51,12 @@ to speedtest your upload speed
 >
 > ![](LAX.png "speedtest")
 >
-> | Hostname         | None                     |
+> | Hostname         | us.867678.xyz                            |
 > | ---------------- | ---------------------------------------- |
-> | ISP              | 	Multacom Corporation                         |
-> | IP Organization  | 	Multacom Corporation                         |
-> | ASN              | [AS35916](https://ip.sb/whois/AS35916) |
-> | ASN Organization | 	MULTA-ASN1                         |
+> | ISP              | 	Multacom Corporation                    |
+> | IP Organization  | 	Multacom Corporation                    |
+> | ASN              | [AS35916](https://ip.sb/whois/AS35916)   |
+> | ASN Organization | 	MULTA-ASN1                              |
 
 
 Domain of the IPV4:
@@ -103,12 +103,12 @@ IPv6(All the three IPs):
 >
 > ![](OSA.png "speedtest")
 >
-> | Hostname         | None                     |
+> | Hostname         | am-vsxg-01.evoxt.com                     |
 > | ---------------- | ---------------------------------------- |
-> | ISP              | 	 		Evoxt Enterprise                         |
-> | IP Organization  | 	 	Evoxt Enterprise                         |
+> | ISP              | Evoxt Enterprise                         |
+> | IP Organization  | Evoxt Enterprise                         |
 > | ASN              | [AS149440](https://ip.sb/whois/AS149440) |
-> | ASN Organization | 	 		Evoxt Enterprise                         |
+> | ASN Organization | Evoxt Enterprise                         |
 
 
 Domain of the IPV4:
