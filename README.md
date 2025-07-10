@@ -7,9 +7,9 @@
 ### Speedtest
 #### Iperf3
 
-> These servers has iperf3 service , you kan using :
+> These servers has iperf3 service , you can using :
 ```
-iperf3 -c [IP/Domain] -R
+iperf3 -c [IP/Domain] -R -L 4
 ```
 to speedtest your download speed
 
@@ -49,7 +49,7 @@ to speedtest your upload speed
 >
 > [Download file from this server with ssl.](https://us.867678.xyz:82)
 >
-> ![](US.png "speedtest")
+> ![](LAX.png "speedtest")
 >
 > | Hostname         | None                     |
 > | ---------------- | ---------------------------------------- |
@@ -101,7 +101,7 @@ IPv6(All the three IPs):
 >
 > [Download file from this server with ssl.](https://jp.867678.xyz:82)
 >
-> ![](JP.png "speedtest")
+> ![](OSA.png "speedtest")
 >
 > | Hostname         | None                     |
 > | ---------------- | ---------------------------------------- |
