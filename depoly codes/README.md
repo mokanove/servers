@@ -4,43 +4,12 @@
 >
 > And Ubuntu or debian operating system.
 
-## config.sh
-
-> Using it, you can configure a server with the same functions as the home page.
-
-```
-wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/config.sh &&sudo sh config.sh
-```
-
-Delete:
-```
-iptables -t nat -F&&sudo rm /etc/apt/sources.list.d/cloudflare-client.list && sudo apt update && sudo apt remove warp-cli -y
-```
-
-------
-
-## cf-speedtest.sh:
-
-> Check the best Cloudflare CDN IP in this server.
-
-```
-wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/cf-speedtest.sh &&sudo sh cf-speedtest.sh
-```
-
-Delete:
-
-```
-sudo rm cf-speedtest.sh CloudflareST ip.txt result.csv
-```
-
-------
-
 ## proxy.sh:
 
 > Proxy Cloudflare IP.
 
 ```
-wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/proxy.sh &&sudo sh proxy.sh
+wget https://github.com/mokanove/IPs/raw/main/depoly%20codes/proxy.sh &&sudo sh proxy.sh
 ```
 
 Delete:
@@ -60,9 +29,11 @@ iptables -t nat -F
 ## speedtest.sh:
 
 > Use the official Speed test tool to test the server speed.
+>
+> WARN: IT NOT SUPPORT UBUNTU24!
 
 ```
-wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/speedtest.sh &&sudo sh speedtest.sh
+wget https://github.com/mokanove/IPs/raw/main/depoly%20codes/speedtest.sh &&sudo sh speedtest.sh
 ```
 
 Delete:
@@ -72,36 +43,6 @@ sudo rm /etc/apt/sources.list.d/ookla_speedtest-cli.list&&sudo apt-get remove sp
 ```
 
 ------
-
-## check-Netflix:
-
-> Use a third-party tool to check Netflix unblocking status.
-
-```
-wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/check-netflix.sh &&sudo sh check-netflix.sh
-```
-
-Delete:
-
-```
-rm check-netflix.sh&&rm nf
-```
-
-------
-
-## unlock-netflix.sh:
-
-> If your server does not support unblocking Netflix, you can try using Cloudflare's free VPN service warp to unblock it.
-
-```
-wget https://github.com/Kilumkothn/IPs/raw/main/depoly%20codes/unlock-netflix.sh &&sudo sh unlock-netflix.sh
-```
-
-Delete:
-
-```
-sudo rm /etc/apt/sources.list.d/cloudflare-client.list && sudo apt update && sudo apt remove cloudflare-warp -y&& rm unlock-netflix.sh
-```
 
 
 
