@@ -49,7 +49,7 @@ to speedtest your upload speed
 >
 > [Download file from this server with ssl.](https://us.867678.xyz:82)
 >
-> ![](LAX.png "speedtest")
+> ![](LAX.png)
 >
 > | Hostname         | us.867678.xyz                            |
 > | ---------------- | ---------------------------------------- |
@@ -101,7 +101,7 @@ IPv6:
 >
 > [Download file from this server with ssl.](https://jp.867678.xyz:82)
 >
-> ![](OSA.png "speedtest")
+> ![](OSA.png)
 >
 > | Hostname         | am-vsxg-01.evoxt.com                     |
 > | ---------------- | ---------------------------------------- |
@@ -141,7 +141,7 @@ IPv6:
 
 > Cloudflare R2
 >
-> ![](CF.png "cf globle")
+> ![](https://imagedelivery.net/wSMYJvS3Xw-n339CbDyDIA/456430b7-1c8f-42b0-71c0-586ad9172700/public)
 >
 > File size : 300MB(286MiB(300,000,000Bytes))
 >
