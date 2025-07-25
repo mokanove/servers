@@ -137,9 +137,11 @@ IPv6:
 
 # Cloudflare free services.
 
-## Speed test URL :
+## Speedtest URL :
 
-> Cloudflare R2 
+> Cloudflare R2
+>
+> ![](CF.png "cf globle")
 >
 > File size : 300MB(286MiB(300,000,000Bytes))
 >
