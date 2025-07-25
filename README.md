@@ -21,7 +21,9 @@ to speedtest your upload speed
 
 #### HTTP Download
 
-> Cleck [Download file from this server.] or [Download file from this server with ssl.] to using http download a 300MiB file.
+> Cleck [Download file from this server with ssl.] to using http download a 300MiB file.
+>
+> (Ago it support unssl but now not support it , Because now most services are all using ssl.)
 
 ### Proxy IP(SNI IP)
 
@@ -33,7 +35,7 @@ to speedtest your upload speed
 
 ### Free Proxy Server
 
->Using socks5://[server IP/Domain] to using free socks5 proxy , but not support UDP
+>Using socks5://[server IP/Domain]:9527 to using free socks5 proxy , but not support UDP
 >
 >Uh... Please you save me monies , I've for love to made them.
 
@@ -45,9 +47,7 @@ to speedtest your upload speed
 >
 > Speed test:
 >
-> [Download file from this server.](http://us.867678.xyz:81)
->
-> [Download file from this server with ssl.](https://us.867678.xyz:82)
+> [Download file from this server with ssl.](https://us.867678.xyz:81)
 >
 > ![](LAX.png)
 >
@@ -97,9 +97,7 @@ IPv6:
 >
 > Speed test:
 >
-> [Download file from this server.](http://jp.867678.xyz:81)
->
-> [Download file from this server with ssl.](https://jp.867678.xyz:82)
+> [Download file from this server with ssl.](https://jp.867678.xyz:81)
 >
 > ![](OSA.png)
 >
