@@ -207,4 +207,4 @@ https://s.867678.xyz/speedtest
 
 # We don't collect any logs , If you worry we collect it , You can Self make a server(Code at "Deploy codes" Floder).
 
-# IP info from IP.SB.
+# IP info from ipinfo.io.
