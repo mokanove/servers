@@ -13,7 +13,7 @@ iperf3 -c [IP/Domain] -R -L 4
 ```
 to speedtest your download speed
 
-OR using :
+>OR using :
 ```
 iperf3 -c [IP/Domain] -L 4
 ```
@@ -39,11 +39,11 @@ to speedtest your upload speed
 >
 >Uh... Please you save me monies , I've for love to made them.
 
-## Los Angeles , California , USA :
+## Los Angeles , California , USA (LAX) :
 
 > Full IPV6 support.
 >
-> Netflix: Unlocks original series and can't be used in full (region is the US)
+> Netflix: Unlocks original series and can be used in full (region is the US)
 >
 > Speed test:
 >
@@ -51,19 +51,43 @@ to speedtest your upload speed
 >
 > ![](LAX.png)
 >
-> | Hostname         | us.867678.xyz                            |
-> | ---------------- | ---------------------------------------- |
-> | ISP              | 	Multacom Corporation                    |
-> | IP Organization  | 	Multacom Corporation                    |
-> | ASN              | [AS35916](https://ip.sb/whois/AS35916)   |
-> | ASN Organization | 	MULTA-ASN1                              |
+
+>ISP info(from ipinfo.io and its ipv4 addr):
+```
+{
+  "ip": "74.48.125.113",
+  "city": "Los Angeles",
+  "region": "California",
+  "country": "US",
+  "loc": "34.0522,-118.2437",
+  "org": "AS35916 MULTACOM CORPORATION",
+  "postal": "90009",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+}
+```
+
+>Server info:
+```
+{
+  "provider": "cloudcone",
+  "core": "2",
+  "threads": "2",
+  "ram": "1G",
+  "bandwidth": "1Gbps",
+  "price": "USD$12.99/yr",
+  "region": "lax",
+  "maturity": "2025-12-26",
+  "os": "ubuntuserver 24.04 lts"
+}
+```
 
 
-Domain of the IPV4:
+Domain:
 ```
 us.867678.xyz
 ```
-Domain of the IPV4 with CloudflareCDN:
+Domain with CloudflareCDN:
 ```
 us2.867678.xyz
 ```
@@ -101,19 +125,44 @@ IPv6:
 >
 > ![](OSA.png)
 >
-> | Hostname         | am-vsxg-01.evoxt.com                     |
-> | ---------------- | ---------------------------------------- |
-> | ISP              | Evoxt Enterprise                         |
-> | IP Organization  | Evoxt Enterprise                         |
-> | ASN              | [AS149440](https://ip.sb/whois/AS149440) |
-> | ASN Organization | Evoxt Enterprise                         |
 
 
-Domain of the IPV4:
+>ISP info(from ipinfo.io and its ipv4 addr):
+```
+{
+  "ip": "166.88.100.243",
+  "city": "Osaka",
+  "region": "Osaka",
+  "country": "JP",
+  "loc": "34.6962,135.4945",
+  "org": "AS149440 Evoxt Enterprise",
+  "postal": "530-0003",
+  "timezone": "Asia/Tokyo",
+  "readme": "https://ipinfo.io/missingauth"
+}
+```
+
+
+>Server info:
+```
+{
+  "provider": "evoxt",
+  "core": "1",
+  "threads": "1",
+  "ram": "0.5G",
+  "bandwidth": "1Gbps",
+  "price": "USD$3.60/mo",
+  "region": "osa",
+  "maturity": "2025-08-25",
+  "os": "ubuntuserver 24.04 lts"
+}
+```
+
+Domain:
 ```
 jp.867678.xyz
 ```
-Domain of the IPV4 with CloudflareCDN:
+Domain with CloudflareCDN:
 ```
 jp2.867678.xyz
 ```
