@@ -6,7 +6,7 @@ echo "It will be off the firewall !"
 echo "And it isn't support IPV6 or you need change iptable to ip6tables."
 read -p "Please input enter start install , or using ctrl+c to exit." a
 sudo apt update && sudo apt upgrade -y && apt-get install iptables-persistent netfilter-persistent -y
-wget https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.2/cfst_linux_amd64.tar.gz
+wget https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.4/cfst_linux_amd64.tar.gz
 tar -zxvf cfst_linux_amd64.tar.gz
 rm ip.txt ipv6.txt cfst_hosts.sh 使用+错误+反馈说明.txt cfst_linux_amd64.tar.gz
 wget -O ip.txt https://raw.githubusercontent.com/mokanove/servers/refs/heads/main/CDNIPs/Cloudflare.txt
