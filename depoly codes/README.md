@@ -32,7 +32,7 @@ wget https://github.com/mokanove/servers/raw/main/depoly%20codes/speedtest.sh &&
 Delete:
 
 ```
-sudo rm /etc/apt/sources.list.d/ookla_speedtest-cli.list&&sudo apt-get remove speedtest speedtest-cli -y&&sudo apt-get update
+It will be autoremove so you don't do anything
 ```
 
 ------
