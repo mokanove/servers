@@ -22,7 +22,7 @@ rm proxy.sh && iptables -t nat -F
 
 ## speedtest.sh:
 
-> Use the official Speed test tool to test the server speed.
+> Use the Speedtest by Ookla tool to test the server speed.
 
 
 ```
