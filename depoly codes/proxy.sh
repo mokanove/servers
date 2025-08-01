@@ -2,8 +2,8 @@
 echo "Do you want do this? It will you 80 443 2082 2052 8080 port is proxied and off your firewall."
 echo "The author is not responsible for any consequences of using this code."
 echo "The project with XIU2:https://github.com/XIU2/CloudflareSpeedTest"
-echo "It will be off the firewall !"
 echo "And it isn't support IPV6 or you need change iptable to ip6tables."
+echo "You need allow iptables and ip6tables as deamon."
 read -p "Please input enter start install , or using ctrl+c to exit." a
 sudo apt update && sudo apt upgrade -y && apt-get install iptables-persistent netfilter-persistent -y
 wget https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.4/cfst_linux_amd64.tar.gz
