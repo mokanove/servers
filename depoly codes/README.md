@@ -1,6 +1,6 @@
 # There are server config code , only for Ubuntu and Debian.
 
-> Need root accept.
+> Need root.
 >
 > And Ubuntu or debian operating system.
 
