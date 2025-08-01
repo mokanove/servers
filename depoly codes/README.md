@@ -15,13 +15,7 @@ wget https://github.com/mokanove/servers/raw/main/depoly%20codes/proxy.sh &&sudo
 Delete:
 
 ```
-rm proxy.sh
-```
-
-Delete Iptables rules:
-
-```
-iptables -t nat -F
+rm proxy.sh && iptables -t nat -F
 ```
 
 ------
