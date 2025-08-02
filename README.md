@@ -9,13 +9,13 @@
 
 > These servers has iperf3 service , you can using :
 ```
-iperf3 -c [IP/Domain] -R -L 4
+iperf3 -c [IP/Domain] -R
 ```
 to speedtest your download speed
 
 >OR using :
 ```
-iperf3 -c [IP/Domain] -L 4
+iperf3 -c [IP/Domain]
 ```
 to speedtest your upload speed
 
