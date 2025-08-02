@@ -10,7 +10,6 @@ wget https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.3.4/cfst_l
 tar -zxvf cfst_linux_amd64.tar.gz
 rm ip.txt ipv6.txt cfst_hosts.sh 使用+错误+反馈说明.txt cfst_linux_amd64.tar.gz
 wget -O ip.txt https://www.cloudflare.com/ips-v4/
-wget -O ipv6.txt https://www.cloudflare.com/ips-v6/
 chmod 755 cfst
 ./cfst
 CIP=$(awk -F',' 'NR==2 {print $1}' result.csv)
@@ -32,4 +31,3 @@ iptables -t nat -A POSTROUTING -p tcp -d $CIP --dport 8080 -j MASQUERADE
 iptables -t nat -L -n -v
 netfilter-persistent save
 echo "The script is finished running, and the proxy CloudflareCDN has been successfully set up on port 80 443 2052 2082 8080."
-rm proxy.sh
