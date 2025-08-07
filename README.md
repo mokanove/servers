@@ -47,7 +47,7 @@ to speedtest your upload speed
 >
 > Speed test:
 >
-> [Download file from this server with ssl.](https://us.867678.xyz:81)
+> [Download file from this server with ssl.](https://us-lax.867678.xyz:81)
 >
 > ![](LAX.png)
 >
@@ -87,10 +87,6 @@ Domain:
 ```
 us.867678.xyz
 ```
-Domain with CloudflareCDN:
-```
-us2.867678.xyz
-```
 
 
 IPv4:
@@ -113,7 +109,7 @@ IPv6:
 
 ------
 
-## Osaka , Japan :
+## Osaka , Japan (OSA):
 
 > Full IPV6 support.
 >
@@ -121,7 +117,7 @@ IPv6:
 >
 > Speed test:
 >
-> [Download file from this server with ssl.](https://jp.867678.xyz:81)
+> [Download file from this server with ssl.](https://jp-osa.867678.xyz:81)
 >
 > ![](OSA.png)
 >
@@ -160,11 +156,7 @@ IPv6:
 
 Domain:
 ```
-jp.867678.xyz
-```
-Domain with CloudflareCDN:
-```
-jp2.867678.xyz
+jp-osa.867678.xyz
 ```
 
 IPv4:
@@ -181,6 +173,70 @@ IPv6:
 
 ------
 
+##  Mumbai, Maharashtra, IN (BOM):
+
+> Full IPV6 support.
+>
+> Netflix: not avaliable
+>
+> Speed test:
+>
+> [Download file from this server with ssl.](https://in-bom.867678.xyz:81)
+>
+> ![](BOM.png)
+>
+
+
+>ISP info(from ipinfo.io and its ipv4 addr):
+```
+{
+  "ip": "65.20.89.131",
+  "hostname": "65.20.89.131.vultrusercontent.com",
+  "city": "Mumbai",
+  "region": "Maharashtra",
+  "country": "IN",
+  "loc": "18.9808,72.8338",
+  "org": "AS20473 The Constant Company, LLC",
+  "postal": "400072",
+  "timezone": "Asia/Kolkata",
+  "readme": "https://ipinfo.io/missingauth"
+}
+```
+
+
+>Server info:
+```
+{
+  "provider": "vultr",
+  "core": "1",
+  "threads": "1",
+  "ram": "1G",
+  "bandwidth": "10Gbps",
+  "price": "USD$3.60/mo",
+  "region": "bom",
+  "maturity": "2025-09-04",
+  "os": "ubuntuserver 24.04 lts"
+}
+```
+
+Domain:
+```
+in-bom.867678.xyz
+```
+
+IPv4:
+
+```
+65.20.89.131
+```
+
+IPv6:
+
+```
+2401:c080:2400:2d10:5400:05ff:fe92:42fc
+```
+
+------
 
 # Cloudflare free services.
 
