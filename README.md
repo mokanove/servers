@@ -31,13 +31,7 @@ to speedtest your upload speed
 >
 > You will need proxy IP , Without them, you won't be able to open your Cloudflare website.
 >
-> You can fill in the server domain name, just like "const proxyIPs = ["us.867678.xyz"];"
-
-### Free Proxy Server
-
->Using socks5://[server IP/Domain]:9527 to using free socks5 proxy , but not support UDP
->
->Uh... Please you save me monies , I've for love to made them.
+> You can fill in the server domain name, just like "const proxyIPs = ["us-lax.867678.xyz"];"
 
 ## Los Angeles , California , USA (LAX) :
 
@@ -173,70 +167,6 @@ IPv6:
 
 ------
 
-##  Mumbai, Maharashtra, IN (BOM):
-
-> Full IPV6 support.
->
-> Netflix: not avaliable
->
-> Speed test:
->
-> [Download file from this server with ssl.](https://in-bom.867678.xyz:81)
->
-> ![](BOM.png)
->
-
-
->ISP info(from ipinfo.io and its ipv4 addr):
-```
-{
-  "ip": "65.20.89.131",
-  "hostname": "65.20.89.131.vultrusercontent.com",
-  "city": "Mumbai",
-  "region": "Maharashtra",
-  "country": "IN",
-  "loc": "18.9808,72.8338",
-  "org": "AS20473 The Constant Company, LLC",
-  "postal": "400072",
-  "timezone": "Asia/Kolkata",
-  "readme": "https://ipinfo.io/missingauth"
-}
-```
-
-
->Server info:
-```
-{
-  "provider": "vultr",
-  "core": "1",
-  "threads": "1",
-  "ram": "1G",
-  "bandwidth": "10Gbps",
-  "price": "USD$3.60/mo",
-  "region": "bom",
-  "maturity": "2025-09-04",
-  "os": "ubuntuserver 24.04 lts"
-}
-```
-
-Domain:
-```
-in-bom.867678.xyz
-```
-
-IPv4:
-
-```
-65.20.89.131
-```
-
-IPv6:
-
-```
-2401:c080:2400:2d10:5400:05ff:fe92:42fc
-```
-
-------
 
 # Cloudflare free services.
 
@@ -264,3 +194,4 @@ https://s.867678.xyz/speedtest
 # We don't collect any logs , If you worry we collect it , You can Self make a server(Code at "Deploy codes" Floder).
 
 # IP info from ipinfo.io.
+
